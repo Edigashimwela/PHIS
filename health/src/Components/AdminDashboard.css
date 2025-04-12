@@ -283,17 +283,17 @@ body {
     width: calc(100% - 250px);
     min-height: 100vh;
     position: relative;
-    z-index: 1; /* Ensure content appears above sidebar */
+    z-index: 1; /* Ensure content appears abo sidebar */
 }
 
 .content-header {
     margin-bottom: 20px;
-    position: relative; /* Ensure proper stacking */
+    position: relative; /* Ensure proper acking */
     z-index: 2; /* Higher than other elements */
 }
 
 .content-header h1 {
-    color: #2c3e50 !important; /* Force color */
+    color: #2c3e50 !important; /* ForcEE color */
     font-size: 1.8rem;
     margin: 0 0 20px 0;
     padding: 10px 0;

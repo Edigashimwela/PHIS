@@ -11,7 +11,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* Science/medical themed gradient background */
     background: linear-gradient(to right, #114cb8, #1ac9e6);
 }
 
